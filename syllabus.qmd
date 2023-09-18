@@ -62,39 +62,41 @@ Since the course also touches on the mathematical and statistical theory behind 
 
 ## Course Workload
 
-2 homework and 1 group-based project presentation along with a written-report (see details below).
+3 homework and 1 group-based project presentation along with a written-report (see details below).
 
 ## Course Tentative Plan
 
 We will closely follow the weekly schedule given below. However, weekly class schedules are subject to change depending on the progress we make as a class.
 
-Week 1. Introduction to simple linear regression. Basic optimization concepts used in regression analysis. Ordinary least squares estimation. Models evaluation metrics for regression problems.
+Week 1. Introduction to statistical learning. Supervised and unsupervised learning. 
+Introduction to simple linear regression. Basic optimization concepts used in simple linear regression analysis. Models evaluation metrics for regression problems.
 
-Week 2. Multiple linear regression. Ordinary least squares estimation. Gradient descent algorithm.
+Week 2. Multiple linear regression. Basic optimization concepts used in simple linear regression analysis.
 
-Week 3. Feature Engineering.
+Week 3. Polynomial regression. Bias-variance trade-off. Over-fitting and under-fitting.
 
-Week 4. Polynomial regression. Bias-variance trade-off. Over-fitting and under-fitting.
+Week 4. Feature selection approaches. Feature Engineering (scaling, encoding).
 
-Week 5. Regularization methods for regression problems. Ridge and lasso regression. Cross-validation. Unsupervised pre-processing. Grid search and hyper-parameter tuning. Pipelines.
+Week 5. Regularization methods for regression problems. Ridge and lasso regression. 
 
-Week 6. Introduction to classification. Logistic regression. Evaluation metrics for binary classification algorithms. Decision boundary concept. Multi-class classification.
+Week 6. Cross-validation. Grid search and hyper-parameter tuning. Pipelines.
 
-Week 7. Linear discriminant analysis. Quadratic discriminant analysis. Naive Bayes. K-nearest neighbors. Week 9. Tree based methods. Bagging, Random forests, and Boosting.
+Week 7. Introduction to classification. Logistic regression. Gradient descent algorithm. Evaluation metrics for binary classification algorithms. Decision boundary concept. 
 
-Week 8. Remaining topics related to classification.
+Week 8. Multi-class classification. Evaluation metrics for multi-class classification algorithms.
 
-Week 9. No class due to Labor and Solidarity Day.
+Week 9. Naive Bayes. K-nearest neighbors. Remaining topics related to classification such as under-sampling, over-sampling.
 
-Week 10. Unsupervised learning. Principal component analysis.
+Week 10. Decision trees. 
 
-Week 11. Clustering methods.
+Week 11. Bootstrapping, Bagging, Ensemble methods (Random forests and Boosting).
 
-Week 12. Final review and applications.
+Week 12. Unsupervised learning. Principal component analysis.
 
-Week 13. Final review and applications.
+Week 13. Clustering methods. K-means algorithm.
 
-Week 14. Final review and applications.
+Week 14. Hierarchical clustering, DBSCAN.
+
 
 
 ## Student Learning Outcomes
