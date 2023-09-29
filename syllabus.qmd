@@ -62,14 +62,13 @@ Since the course also touches on the mathematical and statistical theory behind 
 
 ## Course Workload
 
-3 homework and 1 group-based project presentation along with a written-report (see details below).
+2 quizzes, 1 midterm, and 1 group-based project presentation along with a written-report (see details below).
 
 ## Course Tentative Plan
 
 We will closely follow the weekly schedule given below. However, weekly class schedules are subject to change depending on the progress we make as a class.
 
-Week 1. Introduction to statistical learning. Supervised and unsupervised learning. 
-Introduction to simple linear regression. Basic optimization concepts used in simple linear regression analysis. Models evaluation metrics for regression problems.
+Week 1. Introduction to statistical learning. Supervised and unsupervised learning. Introduction to simple linear regression. Basic optimization concepts used in simple linear regression analysis. Models evaluation metrics for regression problems.
 
 Week 2. Multiple linear regression. Basic optimization concepts used in simple linear regression analysis.
 
@@ -77,17 +76,17 @@ Week 3. Polynomial regression. Bias-variance trade-off. Over-fitting and under-f
 
 Week 4. Feature selection approaches. Feature Engineering (scaling, encoding).
 
-Week 5. Regularization methods for regression problems. Ridge and lasso regression. 
+Week 5. Regularization methods for regression problems. Ridge and lasso regression.
 
 Week 6. Cross-validation. Grid search and hyper-parameter tuning. Pipelines.
 
-Week 7. Introduction to classification. Logistic regression. Gradient descent algorithm. Evaluation metrics for binary classification algorithms. Decision boundary concept. 
+Week 7. Introduction to classification. Logistic regression. Gradient descent algorithm. Evaluation metrics for binary classification algorithms. Decision boundary concept.
 
 Week 8. Multi-class classification. Evaluation metrics for multi-class classification algorithms.
 
 Week 9. Naive Bayes. K-nearest neighbors. Remaining topics related to classification such as under-sampling, over-sampling.
 
-Week 10. Decision trees. 
+Week 10. Decision trees.
 
 Week 11. Bootstrapping, Bagging, Ensemble methods (Random forests and Boosting).
 
@@ -96,8 +95,6 @@ Week 12. Unsupervised learning. Principal component analysis.
 Week 13. Clustering methods. K-means algorithm.
 
 Week 14. Hierarchical clustering, DBSCAN.
-
-
 
 ## Student Learning Outcomes
 
@@ -199,10 +196,13 @@ Please read the information below as a reference for how this class will be cond
 
 | Assessment Method                  | Contribution to Final Grade |
 |:-----------------------------------|:----------------------------|
-| 3 Homework                         | Each 15%                    |
-| Data analysis project proposal     | 15%                         |
+| 2 quizzes                          | Each 5%                     |
+| 1 midterm                          | 50%                         |
 | Data analysis project presentation | 20%                         |
 | Data analysis project report       | 20%                         |
+
+# Midterm date and coverage
+**The midterm date will be announced later**. The midterm topics will cover whatever we have covered up to that week. The main aim of the midterm is to assess whether you are able to frame a data analysis problem, implement it, and report the results. The midterm will be hands-on and open-book exam. For that reason, you have to bring your own portable computer to the exam place.
 
 ## Data analysis project presentation (along with report submission) date and coverage
 
@@ -223,9 +223,9 @@ There is no VF rule to attend or not to attend the final exam.
 
 <p align="justify">
 
--   The students who miss either data analysis project presentation due to a health problem can take a make-up presentation day as long as they have a valid medical report taken on the exam day.
--   The medical report should be handed in immediately (within two days of its expiration).
--   There will be **NO** make-up for missed homework.
+-   The students who miss either midterm or data analysis project presentation due to a health problem can take a make-up midterm or presentation day as long as they have a valid medical report taken on the exam day.
+- The medical report should be handed in immediately (within two days of its expiration).
+- There will be **NO make-up** for missed quizzes.
 
 </p>
 
