@@ -70,7 +70,7 @@ We will closely follow the weekly schedule given below. However, weekly class sc
 
 Week 1. Introduction to statistical learning. Supervised and unsupervised learning. Introduction to simple linear regression. Basic optimization concepts used in simple linear regression analysis. Models evaluation metrics for regression problems.
 
-Week 2. Multiple linear regression. Basic optimization concepts used in simple linear regression analysis.
+Week 2. Multiple linear regression. Basic optimization concepts used in multiple linear regression analysis.
 
 Week 3. Polynomial regression. Bias-variance trade-off. Over-fitting and under-fitting.
 
@@ -202,6 +202,7 @@ Please read the information below as a reference for how this class will be cond
 | Data analysis project report       | 20%                         |
 
 ## Midterm date and coverage
+
 **The midterm date will be announced later**. The midterm topics will cover whatever we have covered up to that week. The main aim of the midterm is to assess whether you are able to frame a data analysis problem, implement it, and report the results. The midterm will be hands-on and open-book exam. For that reason, you have to bring your own portable computer to the exam place.
 
 ## Data analysis project presentation (along with report submission) date and coverage
@@ -224,8 +225,8 @@ There is no VF rule to attend or not to attend the final exam.
 <p align="justify">
 
 -   The students who miss either midterm or data analysis project presentation due to a health problem can take a make-up midterm or presentation day as long as they have a valid medical report taken on the exam day.
-- The medical report should be handed in immediately (within two days of its expiration).
-- There will be **NO make-up** for missed quizzes.
+-   The medical report should be handed in immediately (within two days of its expiration).
+-   There will be **NO make-up** for missed quizzes.
 
 </p>
 
